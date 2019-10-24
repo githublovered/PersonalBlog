@@ -15,7 +15,7 @@ keywords: 凌晨风雪,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository:PersonalBlog
+repository: githublovered/PersonalBlog
 github_url: https://github.com/githublovered/PersonalBlog
 url: http://www.PersonalBlog.com
 enforce_ssl: PersonalBlog.com
